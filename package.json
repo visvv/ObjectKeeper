@@ -1,0 +1,20 @@
+{
+  "name": "objectkeeper",
+  "version": "1.0.0",
+  "description": "FIle based storage for json objects",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [
+    "json",
+    "storage",
+    "file-based"
+  ],
+  "author": "visvv",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^3.1.2"
+  }
+}
